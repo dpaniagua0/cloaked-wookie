@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 /vendor
 /node_modules
+=======
+>>>>>>> 8be762bbf1d07c7d00856e24a0d414289cbc44b4
 /bootstrap/compiled.php
 .env.*.php
 .env.php
 .env
+<<<<<<< HEAD
 .idea/
+=======
+>>>>>>> 8be762bbf1d07c7d00856e24a0d414289cbc44b4
